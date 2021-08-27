@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,80);
+
+
+.text {
+    position: relative;
+    color: grey;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.buttonFollowing {
+    display:block;
+    background-color: green;
+    border-color: transparent;
+    color: white;
+    text-align:center;
+    border-radius: 5px;
+    position: relative;
+    left: 30%;
+    top: 20px;
+    width: 110px;
+    height: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.buttonUnfollowing {
+    display:block;
+    background-color: #3785ff;
+    border-color: transparent;
+    color: white;
+    text-align:center;
+    border-radius: 5px;
+    position: relative;
+    left: 30%;
+    top: 20px;
+    width: 110px;
+    height: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+

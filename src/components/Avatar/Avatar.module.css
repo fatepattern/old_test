@@ -1,0 +1,8 @@
+.profilePic {
+    position: relative;
+    left: 40%; top: -30px;
+    width: 60px;
+    height: 60px;
+    border: 8px solid #5cc0ff;
+    border-radius: 50%;
+}

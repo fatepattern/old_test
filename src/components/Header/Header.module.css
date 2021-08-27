@@ -1,0 +1,6 @@
+.headerImage {
+    width: 320px;
+    height: 190px;
+    overflow: hidden;
+    border-radius: 10% 10% 0% 0%;
+}
